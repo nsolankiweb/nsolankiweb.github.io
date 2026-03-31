@@ -77,9 +77,9 @@ export const siteConfig = {
     {
       school: "Texas A&M University",
       degree: "B.A. Computer Science — Minor: Game Design and Development",
-      dateRange: "2022 – December 2025",
+      dateRange: "2022 – 2025",
       achievements: [
-        "GPA: 3.705",
+        "Magna Cum Laude with 3.705 GPA",
         "Minor in Game Design and Development",
         "CITI Program Human Research Certification, valid through September 2030",
       ],
